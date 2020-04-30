@@ -3,7 +3,7 @@
 Here, users can post and view the classified after getting logged in and search details of the city such as shopping malls, colleges, schools, hospitals etc. 
 
 <b><font size=18>Users of system</b></font><br>
-<ul><li>Admin</li><li>Users</li></ul>
+<ul><li>Admin</li><li>Posters and Seekers/Viewers</li></ul>
 <b><font size=18>Functional Requirements</b></font><br>
 <ul><li>Admin</li>
 1.	Can post information on various subjects such as shopping malls, colleges, schools, hospitals etc. after getting logged in! <br>
