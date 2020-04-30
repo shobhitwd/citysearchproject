@@ -27,8 +27,8 @@ This is the admin login page, entering the correct credentials will open the adm
 These are the actions that admin can perform. Admin can post/edit the information about the city, post advertisements or can logout or can go back to the home page by pressing ‘Home’ button. <br>
 <img src="screenshots/4.jpg" width=600><br>
 City information will be displayed in the table and admin can add/delete info. <br>
-<img src="screenshots/5.jpg" width=600><br>
-<img src="screenshots/6.jpg" width=600><br>
+<img src="screenshots/5.JPG" width=600><br>
+<img src="screenshots/6.JPG" width=600><br>
 These messages will be displayed after performing the add/delete action. Pressing ‘Back’ button will take the admin back to the admin panel page.  <br>
 
 <img src="screenshots/7.jpg" width=600><br>
